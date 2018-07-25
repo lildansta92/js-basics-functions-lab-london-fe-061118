@@ -1,1 +1,1 @@
-function distanceTravelledInFeet( )
+function distanceTravelledInFeet()
