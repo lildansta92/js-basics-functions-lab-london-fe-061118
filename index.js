@@ -1,1 +1,5 @@
-function distanceTravelledInFeet()
+function distanceFromHqInBlocks(someValue) {
+  someValue + 1;
+}
+
+
