@@ -1,6 +1,3 @@
-function distanceFromHqInBlocks(distance) {
+function distanceFromHqInBlocks(someValue) {
   return distance + 1;
 }
-
-
-distanceFromHqInBlocks(5);
