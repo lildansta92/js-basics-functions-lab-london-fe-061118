@@ -1,7 +1,7 @@
 const expect = chai.expect;
 
 describe('index.js', function() {
-  describe('distanceFromHqInBlocks()', function() {
+  describe('distanceFromHqInBlocks(2500)', function() {
     it('returns a distance in blocks', function() {
       expect(distanceFromHqInBlocks(43)).to.equal(1);
     });
